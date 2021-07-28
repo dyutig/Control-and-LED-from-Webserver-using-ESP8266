@@ -13,4 +13,6 @@ The steps I followed are:
 7. Now on clicking "Turn On", LED turns ON and on clicking on "Turn OFF", LED turns OFF.
 8. Done.
 
-I am uploading screenshots and pictures of the connections. Please check the images folder. 
+I am uploading screenshots and pictures of the connections. 
+
+![WhatsApp Image 2021-07-28 at 11 09 16 (2)](https://user-images.githubusercontent.com/80844300/127269835-0eb8326d-3573-45b5-b13e-4df7031c8794.jpeg)
