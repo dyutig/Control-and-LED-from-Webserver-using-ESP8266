@@ -15,4 +15,6 @@ The steps I followed are:
 
 I am uploading screenshots and pictures of the connections. 
 
-![WhatsApp Image 2021-07-28 at 11 09 16 (2)](https://user-images.githubusercontent.com/80844300/127269835-0eb8326d-3573-45b5-b13e-4df7031c8794.jpeg)
+![WhatsApp Image 2021-07-28 at 11 09 16 (1)](https://user-images.githubusercontent.com/80844300/127270558-ebd2fd57-ce8c-4dbe-a6f4-6a7e295854fe.jpeg)
+![WhatsApp Image 2021-07-28 at 11 09 16 (2)](https://user-images.githubusercontent.com/80844300/127270550-85abcbcc-7274-4986-81c9-d46b6c1c6378.jpeg)
+![WhatsApp Image 2021-07-28 at 11 09 16](https://user-images.githubusercontent.com/80844300/127270562-f90f7fbf-3817-4005-b995-ecc47d619cf4.jpeg)
